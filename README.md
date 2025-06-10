@@ -10,7 +10,7 @@ Build and understand a basic keylogger in Python using `pynput`. For learning an
 ## 🔧 Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/kali-gpt-keylogger.git
+git clone https://github.com/elkadhi-oussama/keylogger
 cd keylogger
 pip install -r requirements.txt
 
